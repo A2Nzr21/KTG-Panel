@@ -1,0 +1,9 @@
+node_modules/
+.review/
+data/
+*.zip
+ktg-data/
+.env
+.env.*
+*.log
+docs/media/Video-original.mp4
