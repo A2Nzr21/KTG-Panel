@@ -32,4 +32,3 @@
 
 راه‌اندازی و اتصال‌ها در کانتینر لینوکس با تنظیمات Railway آزمایش شده‌اند. کیفیت اتصال از اینترنت ایران به مسیر شبکه و دامنهٔ سرویس شما وابسته است و باید از همان شبکه بررسی شود.
 
-[راهنمای تصویری پنل](./#railway) · [دامنه و شبکهٔ Railway](https://docs.railway.com/networking/public-networking) · [Volume](https://docs.railway.com/volumes) · [شرایط حساب آزمایشی](https://docs.railway.com/pricing/free-trial)
